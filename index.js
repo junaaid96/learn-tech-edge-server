@@ -16,7 +16,16 @@ app.get('/course-categories', (req, res) => {
     res.send(courseCategories);
 });
 
+app.get('/course-category/:id', (req, res) => {
+    const id = req.params.id;
 
+    if (id === "05") {
+        res.send(courses);
+    } else {
+        const course_category = courses.filter(course => course.category_id === id);
+        res.send(course_category);
+    }
+});
 
 app.get('/courses', (req, res) => {
     res.send(courses);
