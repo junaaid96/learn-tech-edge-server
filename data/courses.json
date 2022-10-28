@@ -14,13 +14,13 @@
         ],
         "total_enroll": 388,
         "category_id": "01",
-        "picture": "http://placehold.it/32x32",
-        "title": "Woods Bradshaw",
-        "details": "Culpa ad ad adipisicing excepteur ea adipisicing pariatur. Elit enim ullamco fugiat cillum tempor in sint ullamco fugiat nulla. Incididunt et velit proident nisi nisi aute.\r\n",
+        "picture": "https://www.bssnews.net/assets/news_photos/2022/05/23/image-62516-1653314935.jpg",
+        "title": "Learn Ethical Hacking From Scratch",
+        "details": "Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.\r\n",
         "author": [
             {
-                "name": "Sims Gill",
-                "img": "",
+                "name": "Zaid Sabih",
+                "img": "https://img-c.udemycdn.com/user/200_H/6956218_3564_4.jpg",
                 "published_date": "Sat Jul 25 1998 03:50:43 GMT+0600 (Bangladesh Standard Time)"
             }
         ]
@@ -39,14 +39,14 @@
             }
         ],
         "total_enroll": 513,
-        "category_id": "04",
-        "picture": "http://placehold.it/32x32",
-        "title": "Jocelyn Gallagher",
-        "details": "Id anim ea laboris voluptate et labore sit exercitation veniam. Sint sit deserunt consectetur minim aliqua id laboris magna. Elit dolore magna excepteur sint ut. Culpa consequat velit ea officia reprehenderit. Esse cupidatat qui irure quis fugiat. Incididunt amet ullamco enim adipisicing culpa exercitation id consequat laboris aliquip.\r\n",
+        "category_id": "01",
+        "picture": "https://cisomag.com/wp-content/uploads/2017/11/Bug-bounty-program.jpg",
+        "title": "Learn Bug Bounty Hunting & Web Security Testing From Scratch",
+        "details": "Learn how to discover bugs / vulnerabilities like experts | OWASP top 10 + more | No prior knowledge required.\r\n",
         "author": [
             {
-                "name": "Moody Moss",
-                "img": "",
+                "name": "Zaid Sabih",
+                "img": "https://img-c.udemycdn.com/user/200_H/6956218_3564_4.jpg",
                 "published_date": "Sat Feb 17 2018 17:10:39 GMT+0600 (Bangladesh Standard Time)"
             }
         ]
@@ -66,13 +66,13 @@
         ],
         "total_enroll": 545,
         "category_id": "02",
-        "picture": "http://placehold.it/32x32",
-        "title": "Rebecca Conway",
-        "details": "Officia duis tempor Lorem qui ea non Lorem quis sit occaecat consequat velit magna. Ullamco ipsum cillum tempor ex. Incididunt eu consectetur et exercitation in Lorem Lorem qui cupidatat nulla. Velit ipsum eu veniam enim laborum irure.\r\n",
+        "picture": "https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg",
+        "title": "Complete Machine Learning & Data Science Bootcamp 2022",
+        "details": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas & more!\r\n",
         "author": [
             {
-                "name": "Janis Barker",
-                "img": "",
+                "name": "Andrei Neagoie",
+                "img": "https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
                 "published_date": "Fri Nov 20 1987 17:26:04 GMT+0600 (Bangladesh Standard Time)"
             }
         ]
@@ -92,13 +92,13 @@
         ],
         "total_enroll": 459,
         "category_id": "03",
-        "picture": "http://placehold.it/32x32",
-        "title": "Jodie Marsh",
-        "details": "Pariatur laborum fugiat reprehenderit mollit qui pariatur. Consectetur fugiat in nisi ea esse ullamco elit qui. Incididunt pariatur laborum adipisicing do excepteur labore mollit consequat velit ullamco ipsum nisi tempor. Pariatur nulla ex duis nostrud id proident elit qui duis elit consectetur laborum. Tempor deserunt cillum quis id dolore commodo elit quis mollit qui in voluptate minim adipisicing. Cillum excepteur adipisicing veniam culpa ipsum ea velit dolor eiusmod fugiat sunt sint ipsum.\r\n",
+        "picture": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Java-Syntax-tv.jpg",
+        "title": "Java Programming Masterclass covering Java 11 & Java 17",
+        "details": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification.\r\n",
         "author": [
             {
-                "name": "Caroline Weiss",
-                "img": "",
+                "name": "Tim Buchalka",
+                "img": "https://img-c.udemycdn.com/user/200_H/599932_71aa_5.jpg",
                 "published_date": "Wed Sep 29 2004 14:41:01 GMT+0600 (Bangladesh Standard Time)"
             }
         ]
@@ -117,14 +117,14 @@
             }
         ],
         "total_enroll": 979,
-        "category_id": "04",
-        "picture": "http://placehold.it/32x32",
-        "title": "Gamble Sandoval",
-        "details": "Sunt excepteur consequat qui quis est non aliqua consectetur. Eu enim aliqua dolore id nisi velit et reprehenderit amet officia adipisicing. Qui Lorem cillum do ut. Ut deserunt enim minim quis ad adipisicing. Voluptate id ex dolor do anim esse non dolore nisi. Sint proident id enim dolor minim consectetur reprehenderit ipsum do.\r\n",
+        "category_id": "03",
+        "picture": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+        "details": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!\r\n",
         "author": [
             {
-                "name": "Ruth Fernandez",
-                "img": "",
+                "name": "Dr. Angela Yu",
+                "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_3.jpg",
                 "published_date": "Tue Oct 05 1971 04:10:45 GMT+0600 (Bangladesh Standard Time)"
             }
         ]
@@ -143,14 +143,14 @@
             }
         ],
         "total_enroll": 845,
-        "category_id": "03",
-        "picture": "http://placehold.it/32x32",
-        "title": "Bette Langley",
-        "details": "Adipisicing et veniam irure dolor ad officia dolor. Duis duis dolor laborum cillum sint ut nisi ullamco nisi eu cillum esse aliqua nisi. Cillum voluptate commodo aliqua ut irure pariatur aliqua fugiat consequat cupidatat mollit velit commodo. Voluptate non tempor eu enim tempor cupidatat labore est exercitation.\r\n",
+        "category_id": "04",
+        "picture": "https://miro.medium.com/max/1050/1*hp-yfKsmzsj711iLbM8eEw.jpeg",
+        "title": "Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more",
+        "details": "Become a Designer in 2022! Master Mobile and Web Design, User Interface + User Experience (UI/UX Design), HTML, and CSS.\r\n",
         "author": [
             {
-                "name": "Frazier Talley",
-                "img": "",
+                "name": "Andrei Neagoie",
+                "img": "https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
                 "published_date": "Thu Oct 01 1970 13:45:39 GMT+0600 (Bangladesh Standard Time)"
             }
         ]
