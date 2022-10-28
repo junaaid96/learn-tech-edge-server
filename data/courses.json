@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "635b9b44279ea812c06f6ec4",
+        "others_info": [
+            {
+                "is_trending": true
+            }
+        ],
+        "rating": [
+            {
+                "number": 3.82,
+                "badge": "Good"
+            }
+        ],
+        "total_enroll": 703,
+        "category_id": 5,
+        "picture": "http://placehold.it/32x32",
+        "title": "Lott Bryan",
+        "details": "Aliqua eiusmod duis enim ipsum nulla pariatur qui minim fugiat cillum esse irure. Excepteur reprehenderit anim ea Lorem excepteur enim irure officia mollit et nostrud dolor. Aliqua ad enim enim sunt magna eiusmod incididunt laboris excepteur consequat. Ea et sunt commodo commodo culpa nisi quis mollit laboris irure culpa Lorem pariatur deserunt. Adipisicing laboris deserunt est reprehenderit ut laborum veniam.\r\n",
+        "author": [
+            {
+                "name": "Mercer Mccarty",
+                "img": "",
+                "published_date": "Sun May 18 1997 13:45:06 GMT+0600 (Bangladesh Standard Time)"
+            }
+        ]
+    },
+    {
+        "_id": "635b9b4490eedf4ac142c6e8",
+        "others_info": [
+            {
+                "is_trending": false
+            }
+        ],
+        "rating": [
+            {
+                "number": 3.51,
+                "badge": "Good"
+            }
+        ],
+        "total_enroll": 730,
+        "category_id": 2,
+        "picture": "http://placehold.it/32x32",
+        "title": "Austin Luna",
+        "details": "Labore et reprehenderit enim et sint non commodo dolor. Elit nulla eu esse deserunt exercitation magna eu exercitation officia. Exercitation esse eiusmod proident esse est ex velit et est. Lorem labore deserunt est minim. Qui et sint nulla aliqua.\r\n",
+        "author": [
+            {
+                "name": "Rachael Gallegos",
+                "img": "",
+                "published_date": "Tue Feb 16 1993 02:06:00 GMT+0600 (Bangladesh Standard Time)"
+            }
+        ]
+    },
+    {
+        "_id": "635b9b44f5252419e8245dd3",
+        "others_info": [
+            {
+                "is_trending": true
+            }
+        ],
+        "rating": [
+            {
+                "number": 3.94,
+                "badge": "Good"
+            }
+        ],
+        "total_enroll": 208,
+        "category_id": 3,
+        "picture": "http://placehold.it/32x32",
+        "title": "Delores Franks",
+        "details": "Fugiat sint ipsum velit cupidatat proident incididunt commodo commodo fugiat eiusmod irure adipisicing amet. Eiusmod occaecat aliqua proident cillum ut consectetur voluptate id pariatur sit. Cillum exercitation culpa excepteur aliqua sit velit ad exercitation id magna ex ea. Lorem dolore elit anim irure et reprehenderit laboris esse pariatur Lorem. Do labore esse deserunt cupidatat laboris aute Lorem eu nostrud ullamco dolore esse enim.\r\n",
+        "author": [
+            {
+                "name": "Morris Blankenship",
+                "img": "",
+                "published_date": "Thu Jun 09 1994 15:49:37 GMT+0600 (Bangladesh Standard Time)"
+            }
+        ]
+    }
+]

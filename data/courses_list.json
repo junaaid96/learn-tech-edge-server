@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Cyber Security"
+    },
+    {
+        "id": "02",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "03",
+        "name": "Software Development"
+    },
+    {
+        "id": "04",
+        "name": "Game Development"
+    },
+    {
+        "id": "05",
+        "name": "UI/UX"
+    },
+    {
+        "id": "06",
+        "name": "Motion Graphics"
+    }
+]
