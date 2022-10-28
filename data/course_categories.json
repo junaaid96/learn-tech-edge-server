@@ -13,14 +13,10 @@
     },
     {
         "id": "04",
-        "name": "Game Development"
-    },
-    {
-        "id": "05",
         "name": "UI/UX"
     },
     {
-        "id": "06",
-        "name": "Motion Graphics"
+        "id": "05",
+        "name": "All Courses"
     }
 ]
