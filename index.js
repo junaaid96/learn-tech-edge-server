@@ -31,7 +31,11 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 });
 
-
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.filter(course => course._id === id);
+    res.send(selectedCourse);
+});
 
 app.listen(port, () => {
     console.log(`Learn-Tech-Edge Server is running at port: ${port}`);
