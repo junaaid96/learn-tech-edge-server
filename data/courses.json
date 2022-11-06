@@ -13,6 +13,7 @@
             }
         ],
         "total_enroll": 388,
+        "duration": 34,
         "category_id": "01",
         "picture": "https://www.bssnews.net/assets/news_photos/2022/05/23/image-62516-1653314935.jpg",
         "title": "Learn Ethical Hacking From Scratch",
@@ -39,6 +40,7 @@
             }
         ],
         "total_enroll": 513,
+        "duration": 45,
         "category_id": "01",
         "picture": "https://cisomag.com/wp-content/uploads/2017/11/Bug-bounty-program.jpg",
         "title": "Learn Bug Bounty Hunting & Web Security Testing From Scratch",
@@ -65,6 +67,7 @@
             }
         ],
         "total_enroll": 545,
+        "duration": 67,
         "category_id": "02",
         "picture": "https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg",
         "title": "Complete Machine Learning & Data Science Bootcamp 2022",
@@ -91,6 +94,7 @@
             }
         ],
         "total_enroll": 459,
+        "duration": 80,
         "category_id": "03",
         "picture": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Java-Syntax-tv.jpg",
         "title": "Java Programming Masterclass covering Java 11 & Java 17",
@@ -117,6 +121,7 @@
             }
         ],
         "total_enroll": 979,
+        "duration": 37,
         "category_id": "03",
         "picture": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
         "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
@@ -143,6 +148,7 @@
             }
         ],
         "total_enroll": 845,
+        "duration": 58,
         "category_id": "04",
         "picture": "https://miro.medium.com/max/1050/1*hp-yfKsmzsj711iLbM8eEw.jpeg",
         "title": "Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more",
